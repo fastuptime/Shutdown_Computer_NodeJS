@@ -1,0 +1,23 @@
+{
+  "name": "pc-close",
+  "version": "1.0.0",
+  "description": "Pc close",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pc",
+    "close",
+    "shutdown",
+    "restart",
+    "sleep",
+    "hibernate",
+    "logoff",
+    "lock",
+    "pc-close"
+  ],
+  "author": "Can & FastUptime",
+  "license": "ISC"
+}
